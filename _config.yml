@@ -1,0 +1,14 @@
+layout_spectrum: 0.7311828
+typography_spectrum: 0.4336918
+color:
+  saturation: 0.9721807
+  lightness: 0.6244702
+  brandStrength: 0.3315412
+  brandColors:
+    - '#2E2737'
+    - '#DFE3E4'
+    - '#8D9799'
+    - '#5E5C62'
+    - '#9D6E5B'
+  rhythmicContrast: 0.9579778
+name: Dailysmart
