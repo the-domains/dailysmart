@@ -10,6 +10,7 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+typography_spectrum: 0.4336918
 color:
   saturation: 0.9721807
   brandStrength: 0.3870968
@@ -21,6 +22,5 @@ color:
     - '#000000'
     - '#898989'
   rhythmicContrast: 0.9579778
-typography_spectrum: 0.4336918
-layout_spectrum: 0.7311828
+layout_spectrum: 0.3010753
 name: Dailysmart
