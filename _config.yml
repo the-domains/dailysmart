@@ -1,14 +1,26 @@
-layout_spectrum: 0.7311828
-typography_spectrum: 0.4336918
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
   saturation: 0.9721807
+  brandStrength: 0.3870968
   lightness: 0.6244702
-  brandStrength: 0.3315412
   brandColors:
-    - '#2E2737'
-    - '#DFE3E4'
-    - '#8D9799'
-    - '#5E5C62'
-    - '#9D6E5B'
+    - '#FFFFFF'
+    - '#EE534F'
+    - '#525252'
+    - '#000000'
+    - '#898989'
   rhythmicContrast: 0.9579778
+typography_spectrum: 0.4336918
+layout_spectrum: 0.7311828
 name: Dailysmart
