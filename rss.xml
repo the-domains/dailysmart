@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Dailysmart]]></title>
+        <description><![CDATA[Dailysmart]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 17 May 2016 14:41:27 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Erfolgreiche SEO - Ehrliche Tipps & Beispiele | smartminimal]]></title>
+            <description><![CDATA[<article><h1>Erfolgreiche SEO - Ehrliche Tipps & Beispiele | smartminimal</h1><p>Ein "Nicht-Marketing-Profi" berichtet Bevor es zum eigentlichen Artikel geht, eine kurze Info für alle Leser: Ich neige sehr dazu, mich in Kommas und unendlich langen Sätzen zu verlieren. Ich weiß nicht, ob das an meiner Liebe zu José Saramago (z.B.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b46999da6e71d54fd384245918aba1ac59f338c5.jpg"></article>]]></description>
+            <link>http://smartminimal.de/erfolgreiche-seo-tipps-mit-beispielen/</link>
+            <guid isPermaLink="false">ad4aaf83-53c0-4cba-9641-d70ac3d0a8f9</guid>
+            <pubDate>Tue, 17 May 2016 14:41:27 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
