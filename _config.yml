@@ -1,15 +1,3 @@
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
 typography_spectrum: 0.4336918
 color:
   saturation: 0.9721807
@@ -23,4 +11,21 @@ color:
     - '#898989'
   rhythmicContrast: 0.9579778
 layout_spectrum: 0.3010753
+author:
+  name: Sergej Markwart
+  email: markwart@smartminimal.de
+  url: www.smartminimal.de
 name: Dailysmart
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+title: 'Daily & Smart '
